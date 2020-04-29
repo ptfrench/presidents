@@ -1,0 +1,17 @@
+.header {
+  color: red;
+  padding: 20px;
+  font-size: 1.5em;
+}
+
+div {
+  padding: 20px;
+  width: 50%;
+}
+
+div p {
+  color: black;
+}
+div ul {
+  color: grey;
+}
